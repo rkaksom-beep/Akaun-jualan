@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Jualan & Rekod Stok",
+  "description": "Aplikasi pengurusan jualan harian dan kawalan stok produk dengan fungsi jana resit serta salinan sandaran (backup).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
